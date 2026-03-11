@@ -132,17 +132,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dudigamvenkatasaiakash9866/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-     
-
-<a href="mailto:dudigamvenkatasaiakash@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<a href="https://www.linkedin.com/in/dudigamvenkatasaiakash9866/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:dudigamvenkatasaiakash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
-
 ---
 
 ## 👀 Profile Visitors

@@ -26,7 +26,7 @@
 
 * **DSA using Java & C++**
 * **React + Node.js**
-* Building small projects
+* Building projects
 * Open-source basics
 
 📍 **Telangana, India**
@@ -39,11 +39,11 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
 </p>
 
@@ -53,11 +53,11 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 </p>
 
@@ -67,7 +67,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
@@ -77,9 +77,9 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
@@ -137,7 +137,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-   
+  
 
 <a href="mailto:dudigamvenkatasaiakash@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
@@ -150,9 +150,11 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Akash72077&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://visitcount.itsvg.in/api?id=Akash72077&icon=0&color=0"/>
 </p>
 
 ---
 
-⭐ **Code • Learn • Build • Repeat**
+<p align="center">
+⭐ <b>Code • Learn • Build • Repeat</b>
+</p>

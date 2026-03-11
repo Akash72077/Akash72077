@@ -5,75 +5,99 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+C%2B%2B+Programmer;React+%2B+Node+Developer;DSA+Enthusiast;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+C%2B%2B+Programmer;React+Learner;DSA+Enthusiast"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Student**
 🏫 **CMR Engineering College (CMREC), Hyderabad**
 
-💡 Passionate about
+💡 Interested in
 
-• Data Structures & Algorithms
-• Full Stack Web Development
-• System Design
-• Software Engineering
+* Data Structures & Algorithms
+* Full Stack Web Development
+* System Design
+* Software Engineering
 
 🚀 Currently learning
 
-• **DSA using Java & C++**
-• **React + Node.js Development**
-• Building real-world projects
-• Open-source contribution
+* **DSA using Java & C++**
+* **React + Node.js**
+* Building small projects
+* Open-source basics
 
 📍 **Telangana, India**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
 </p>
 
-### 🌐 Frontend Development
+<br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
 </p>
+
+<br>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
+
+<br>
 
 ### 🔧 Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash72077&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash72077&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Akash72077&theme=tokyonight"/>
@@ -81,7 +105,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash72077&theme=tokyo-night"/>
@@ -89,23 +113,15 @@
 
 ---
 
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sai72077?theme=dark&font=baloo"/>
+<img src="https://leetcard.jacoblin.cool/sai72077?theme=dark"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akash72077&theme=algolia&margin-w=10"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Akash72077/Akash72077/output/github-contribution-grid-snake.svg"/>
@@ -113,23 +129,25 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dudigamvenkatasaiakash9866/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+   
+
 <a href="mailto:dudigamvenkatasaiakash@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+## 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Akash72077&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -137,4 +155,4 @@
 
 ---
 
-⭐ **Code. Learn. Build. Repeat.**
+⭐ **Code • Learn • Build • Repeat**

@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate animation
 
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: Platane/snk@v3
         with:

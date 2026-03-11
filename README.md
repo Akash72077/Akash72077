@@ -33,18 +33,20 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=java" height="40"/> Java   
+
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++   
+
+<img src="https://skillicons.dev/icons?i=c" height="40"/> C   
+
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript
+
 </p>
 
 <br>
@@ -52,13 +54,15 @@
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML   
+
+<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS   
+
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> Bootstrap   
+
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React
+
 </p>
 
 <br>
@@ -66,9 +70,11 @@
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js   
+
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL
+
 </p>
 
 <br>
@@ -76,16 +82,18 @@
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git   
+
+<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub   
+
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -97,7 +105,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Akash72077&theme=tokyonight"/>
@@ -105,7 +113,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash72077&theme=tokyo-night"/>
@@ -113,7 +121,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+# 🧠 LeetCode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/sai72077?theme=dark"/>
@@ -121,7 +129,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Akash72077/Akash72077/output/github-contribution-grid-snake.svg"/>
@@ -129,28 +137,28 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dudigamvenkatasaiakash9866/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/> LinkedIn
 </a>
 
-  
+   
 
 <a href="mailto:dudigamvenkatasaiakash@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/> Email
 </a>
 
 </p>
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Visitors
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Akash72077&icon=0&color=0"/>
+<img src="https://visitcount.itsvg.in/api?id=Akash72077&label=Profile%20Views&color=12&icon=5"/>
 </p>
 
 ---

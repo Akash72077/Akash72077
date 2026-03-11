@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+🚀 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+C%2B%2B+Programmer;React+%2B+Node+Developer;DSA+Enthusiast;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+C%2B%2B+Programmer;React+%2B+Node+Developer;DSA+Enthusiast;Open+Source+Learner"/>
 </p>
 
 ---
@@ -10,9 +13,9 @@
 # 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science Student**
-🏫 CMR Engineering College (CMREC), Hyderabad
+🏫 **CMR Engineering College (CMREC), Hyderabad**
 
-💡 Passionate about:
+💡 Passionate about
 
 • Data Structures & Algorithms
 • Full Stack Web Development
@@ -26,7 +29,7 @@
 • Building real-world projects
 • Open-source contribution
 
-📍 Telangana, India
+📍 **Telangana, India**
 
 ---
 
@@ -34,25 +37,25 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,cpp,c,js"/>
 </p>
 
 ### 🌐 Frontend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
@@ -62,9 +65,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash72077&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash72077&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -73,7 +76,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Akash72077&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Akash72077&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,7 +100,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akash72077&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akash72077&theme=algolia&margin-w=10"/>
 </p>
 
 ---
@@ -105,7 +108,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Akash72077/Akash72077/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -134,4 +137,4 @@
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+⭐ **Code. Learn. Build. Repeat.**

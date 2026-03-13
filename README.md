@@ -90,7 +90,6 @@
 <p align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight"/>
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash72077&layout=compact&theme=tokyonight"/>
 
 </p>

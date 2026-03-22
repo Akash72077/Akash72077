@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Student (2025 – Present)
 🏫 CMR Engineering College (CMREC), Hyderabad
 
 💡 Interests:

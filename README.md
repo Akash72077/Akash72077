@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+C%2B%2B+Programmer;React+Learner;DSA+Enthusiast"/>
 </p>
-
+ 
 ---
 
 ## 👨‍💻 About Me
@@ -81,8 +81,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash72077&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash72077&theme=tokyonight"/></p>
 
 ---
 

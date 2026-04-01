@@ -69,21 +69,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Akash72077/Akash72077/main/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash72077&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash72077&theme=tokyonight"/></p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -103,14 +88,6 @@
 <a href="mailto:dudigamvenkatasaiakash@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Akash72077&label=Profile%20Views&color=12&icon=5"/>
 </p>
 
 ---

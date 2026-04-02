@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
-<h3 align="center">
+<h3 align="center"> 
 🚀 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
 </h3>
 
